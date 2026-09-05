@@ -1,4 +1,5 @@
-﻿double nota1, nota2, nota3, promedio;
+﻿Console.Clear;
+double nota1, nota2, nota3, promedio;
 Console.WriteLine("===========================");
 Console.WriteLine("=== APROBACION DEL SEMESTRE ===");
 do

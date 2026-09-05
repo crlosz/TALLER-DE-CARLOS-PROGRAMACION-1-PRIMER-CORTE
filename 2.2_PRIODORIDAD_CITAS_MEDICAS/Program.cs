@@ -1,4 +1,5 @@
-﻿int edad;
+﻿Console.Clear;
+int edad;
 string embarazoRespuesta, deudaRespuesta, urgenciaRespuesta;
 bool embarazada, deudaPendiente, urgenciaVital, citaPrioritaria;
 
