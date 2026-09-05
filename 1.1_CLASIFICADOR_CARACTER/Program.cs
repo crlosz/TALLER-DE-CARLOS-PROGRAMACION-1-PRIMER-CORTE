@@ -1,4 +1,5 @@
-﻿char caracterEntrada;
+﻿Console.Clear;
+char caracterEntrada;
 Console.WriteLine("===========================");
 Console.WriteLine("=== CLASIFICADOR DE CARACTERES ===");
 

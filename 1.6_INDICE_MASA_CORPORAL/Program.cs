@@ -31,7 +31,7 @@ if (esNormal)
 }
 else
 {
-    Console.WriteLine("Tu peso NO se encuentra en el rango normaal");
+    Console.WriteLine("Tu peso no se encuentra en el rango normaal");
 }
 
 Console.WriteLine("===========================");

@@ -48,11 +48,11 @@ Console.WriteLine(" ");
 
 if (piezaAprobada)
 {
-    Console.WriteLine("La pieza fue APROBADA.");
+    Console.WriteLine("La pieza fue aprobada.");
 }
 else
 {
-    Console.WriteLine("La pieza fue RECHAZADA.");
+    Console.WriteLine("La pieza fue rechasasda.");
 
     if (tieneGrietas)
     {

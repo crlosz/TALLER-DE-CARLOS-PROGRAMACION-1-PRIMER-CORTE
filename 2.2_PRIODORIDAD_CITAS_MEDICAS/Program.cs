@@ -39,11 +39,11 @@ Console.WriteLine(" ");
 
 if (citaPrioritaria)
 {
-    Console.WriteLine("El paciente SI accede a cita prioritaria.");
+    Console.WriteLine("El paciente si accede a cita prioritaria.");
 }
 else
 {
-    Console.WriteLine("El paciente NO accede a cita prioritaria.");
+    Console.WriteLine("El paciente no accede a cita prioritaria.");
 }
 
 Console.WriteLine("===========================");
