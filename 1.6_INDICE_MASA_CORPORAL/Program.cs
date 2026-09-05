@@ -1,4 +1,5 @@
-﻿double peso, altura, imc;
+﻿Console.Clear();
+double peso, altura, imc;
 bool esNormal;
 
 Console.WriteLine("===========================");

@@ -1,4 +1,5 @@
-﻿double peso, longitud, pesoMaximo;
+﻿Console.Clear();
+double peso, longitud, pesoMaximo;
 string materialRespuesta, grietasRespuesta;
 bool reforzado, tieneGrietas, pesoValido, longitudValida, piezaAprobada;
 

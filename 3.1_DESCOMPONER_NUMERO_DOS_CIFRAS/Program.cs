@@ -5,7 +5,7 @@ Console.WriteLine("=== INVERTIR NUMERO ===");
 Console.WriteLine(" ");
 do
 {
-    Console.WriteLine("Por favor, ingrese un numero (10-99): ");
+    Console.Write("Por favor, ingrese un numero (10-99): ");
 
 }while(!int.TryParse(Console.ReadLine(), out numero ) || numero < 10 || numero > 99 );
 

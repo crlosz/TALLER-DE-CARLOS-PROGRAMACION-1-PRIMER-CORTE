@@ -1,4 +1,6 @@
-﻿double promedio,ingresoFamiliar; 
+﻿Console.Clear();
+
+double promedio,ingresoFamiliar; 
 bool esApto;
 
 Console.WriteLine("===========================");

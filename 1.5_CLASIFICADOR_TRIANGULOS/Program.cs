@@ -1,4 +1,5 @@
-﻿double ladoA, ladoB, ladoC;
+﻿Console.Clear();
+double ladoA, ladoB, ladoC;
 bool esTriangulo;
 
 Console.WriteLine("===========================");
