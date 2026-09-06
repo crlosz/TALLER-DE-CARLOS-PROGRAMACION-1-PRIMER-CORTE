@@ -1,4 +1,4 @@
-﻿Console.Clear;
+﻿Console.Clear();
 int anio;
 Console.WriteLine("===========================");
 Console.WriteLine("=== DETERMINADOR AÑO BISIESTO ===");
